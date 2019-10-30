@@ -1,0 +1,12 @@
+# Logs
+*.log
+
+# Dependency directory
+node_modules
+
+# Trash
+.idea
+
+# Dynamically processed files
+build
+public
